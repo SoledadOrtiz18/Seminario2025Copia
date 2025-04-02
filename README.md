@@ -22,3 +22,6 @@ Este repositorio contiene una página web desarrollada como práctica del curso 
 [Google](www.google.com.ar)
 ## Autor
 Pablo Fernando Melissari
+
+## Alumna
+Soledad Ortíz
